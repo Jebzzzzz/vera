@@ -1,5 +1,5 @@
 <script setup lang="ts">
-  import { useSeoMeta, useHead } from '@vueuse/head';
+  //import { useSeoMeta, useHead } from '@vueuse/head';
   const title = "Vera | Home";
   const description = "Truth Serum";
 
