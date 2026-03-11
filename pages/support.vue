@@ -3,7 +3,7 @@
   <client-only>
     <NavBar/>
     <div id="vrMain" class="vr-main"></div>
- <!-- <Cookies /> -->
+    <Cookies />
     <Copyright />
   </client-only>
 </template>

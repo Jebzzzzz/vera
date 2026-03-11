@@ -71,22 +71,103 @@ body {
   background-color: rgba(0, 0, 0, 0.1);
 }
 
-/* main contents */
+/* main content */
+.vr-main {
+  min-height: 800px;
+}
+.vr-hidden {
+  display: none !important;
+}
+.vr-cookie-modal {
+  position: fixed;
+  left: 0;
+  top: 0;
+  height: 100%;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  -webkit-backdrop-filter: blur(5px);
+  backdrop-filter: blur(5px);
+  background: #00000080;
+  z-index: 8000;
+}
+.vr-cookie-box {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  margin: 30px;
+  padding: 20px;
+  width: 400px;
+  max-width: Calc(100% - 60px);
+  font-size: 0.9em;
+  background-color: #fff;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  border-radius: 7px;
+  z-index: 9000;
+}
 
+.vr-cookie-x {
+  position: absolute;
+  right: 0;
+  margin: 0 20px;
+  line-height: 1.5em;
+  cursor: pointer;
+}
+.vr-cookie-x:hover {
+  text-shadow: 0 0 6px rgba(0, 0, 0, 0.3);
+}
+.vr-cookie-header {
+  font-weight: bold;
+  line-height: 1.5em;
+}
+.vr-cookie-actions {
+  margin: 25px 0 8px;
+  text-align: right;
+}
+.vr-cookie-action {
+  padding: 10px 15px;
+  width: 100px;
+  display: inline;
+  font-size: .9em;
+  border-radius: 3px;
+  cursor: pointer;
+}
+.vr-cookie-link {
+  text-decoration: none;
+}
+.vr-cookie-more {
+  color: #3F7D58;
+}
+.vr-cookie-more:hover {
+  margin: 0 0 0 5px;
+  text-decoration: underline;
+}
+.vr-cookie-ok {
+  margin: 0 0 0 5px;
+  color: #fff;
+  background-color: #C59B27;
+}
+.vr-cookie-ok:hover {
+  margin: 0 0 0 5px;
+  color: #fff;
+  background-color: #C59B27cc; /* append cc for opacity */
+}
 
 /* copyright */
 .vr-footer-area {
-width: 100%;
-padding: 10px 0;
-font-size: 0.8em;
-text-align: center;
-color: #666;
+  width: 100%;
+  padding: 10px 0;
+  font-size: 0.8em;
+  text-align: center;
+  color: #666;
 }
 .vr-footer-links a {
-font-weight: bold;
-text-decoration: none;
-color: #666;
+  font-weight: bold;
+  text-decoration: none;
+  color: #666;
 }
 .vr-footer-copyright {
-margin-top: 5px;
+  margin-top: 5px;
 }
