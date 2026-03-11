@@ -1,0 +1,20 @@
+1. The Social Media "Headline Check" (Combating Viral Misinformation)
+  The Scenario: A user is scrolling through social media and sees a highly sensational, emotionally charged headline or viral post that seems too crazy to be true (e.g., a controversial political quote or a shocking news event).
+
+    The Action: The user copies the URL of the article or pastes the text of the post directly into the Vera app.
+
+    The Result: Vera instantly decodes the chaos. It provides a straightforward "Fact Score" (e.g., Verified, False, or Missing Context) alongside three simple bullet points explaining the actual facts, stripped of the original post's bias or hyperbole.
+
+2. The Group Chat "Rumor Filter" (Stopping the Spread of Hoaxes)
+  The Scenario: A user receives a heavily forwarded message in a family or community group chat (like WhatsApp or Messenger). The message warns of a new local danger, a fake government policy, or a unverified health "cure," causing immediate anxiety.
+
+    The Action: The user highlights the text message and shares or pastes it into Vera.
+
+    The Result: Vera cross-references the text against known hoaxes, scams, and verified health/government databases. It immediately tells the user if this is a recycled internet rumor, allowing them to confidently reassure their family and stop the spread.
+
+3. The Suspicious Link "Safety Check" (Preventing Phishing and Scams)
+  The Scenario: A user receives an urgent text message or email claiming they have an unpaid toll, a blocked bank account, or an undelivered package, accompanied by a link. They are unsure if it is legitimate or a phishing attempt.
+
+    The Action: The user copies the link and pastes it into Vera's search bar.
+
+    The Result: Vera analyzes the URL's domain age, checks it against known scam registries, and verifies if it belongs to the actual institution. It delivers a clear "Safe" or "High Risk" verdict, saving the user from potential financial fraud and the stress of uncertainty.
