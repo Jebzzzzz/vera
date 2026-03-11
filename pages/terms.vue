@@ -4,7 +4,7 @@
     <NavBar/>
     <div id="vrMain" class="vr-main"></div>
  <!-- <Cookies /> -->
- <!-- <Copyright /> -->
+    <Copyright />
   </client-only>
 </template>
 

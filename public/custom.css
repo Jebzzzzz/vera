@@ -73,4 +73,20 @@ body {
 
 /* main contents */
 
+
 /* copyright */
+.vr-footer-area {
+width: 100%;
+padding: 10px 0;
+font-size: 0.8em;
+text-align: center;
+color: #666;
+}
+.vr-footer-links a {
+font-weight: bold;
+text-decoration: none;
+color: #666;
+}
+.vr-footer-copyright {
+margin-top: 5px;
+}
