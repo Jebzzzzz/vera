@@ -1,0 +1,52 @@
+Vera Privacy Policy
+Effective Date: March 11, 2026
+
+At Vera Intelligence, Inc. ("Vera", "we", "us"), our mission is to filter digital noise and verify facts. To do this, we need to process certain data. We believe in absolute transparency regarding what we collect, why we collect it, and how we protect it in compliance with the GDPR and the Philippine Data Privacy Act of 2012 (DPA).
+
+1. The Data We Collect
+  We practice data minimization, meaning we only collect what is strictly necessary to run our fact-checking and URL verification services.
+
+  User Inputs (Active Data): The specific text snippets, social media headlines, and URLs you paste into Vera for verification.
+
+  Technical Logs (Passive Data): Basic connection data, such as your IP address, browser type, and device identifier.
+
+  (Note: Vera is designed to analyze public information. Please do not submit sensitive personal data—such as passwords, government IDs, or bank account numbers—into the Vera search bar.)
+
+2. How and Why We Use Your Data (Lawful Basis)
+  We process your data under the following legal bases:
+
+  Service Provision (Contract & Legitimate Interest): We process your User Inputs solely to cross-reference them against verification databases, return a "Fact Score," and analyze URL safety.
+
+  Security & Abuse Prevention (Legitimate Interest): We use Technical Logs to detect malicious activity, prevent DDoS attacks, and stop the automated scraping of our platform.
+
+3. Data Sharing and Cross-Border Transfers
+  We do not sell your personal data to advertisers or data brokers. We only share data with trusted third-party cloud infrastructure providers necessary to host our application. Where data is transferred outside the European Economic Area (EEA) or the Philippines, we ensure strict compliance with standard contractual clauses and adequacy decisions mandated by the GDPR and the DPA.
+
+4. Data Retention
+  User Inputs: The texts and URLs you analyze are processed in real-time. We may retain completely anonymized versions of these queries to improve our verification algorithms. Any query data tied to your specific IP or session is automatically permanently deleted within 30 days.
+
+  Technical Logs: Retained for a maximum of 90 days for security auditing, after which they are automatically purged.
+
+5. Your Rights as a Data Subject
+  Under the GDPR and the Philippine DPA of 2012, you hold absolute rights over your personal data:
+
+  Right to be Informed: To know how your data is being used (fulfilled by this policy).
+
+  Right to Access & Portability: To request a copy of the data we hold about you in a structured, commonly used format.
+
+  Right to Rectification: To correct any inaccurate personal data.
+
+  Right to Erasure/Blocking: To request the deletion or blocking of your data ("Right to be Forgotten").
+
+  Right to Object: To object to our processing of your data.
+
+  Right to Damages: To be indemnified for damages sustained due to inaccurate, incomplete, or unlawful use of your data.
+
+6. Contact Our Data Protection Officer
+  If you wish to exercise any of your rights, or if you have concerns about how we handle your data, please contact our Data Protection Officer (DPO):
+
+  Email: privacy@veraintelligence.com
+
+  Mailing Address: Vera Intelligence, Inc., VSU, City of Baybay, Eastern Visayas, Philippines.
+
+  You also retain the right to lodge a complaint with the National Privacy Commission (NPC) in the Philippines or your relevant EU Supervisory Authority.
