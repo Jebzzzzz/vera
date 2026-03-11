@@ -1,11 +1,11 @@
 <script lang="ts"></script>
 <template>
- <client-only>
- <!-- <NavBar /> -->
- <div id="vrMain" class="vr-main"></div>
+  <client-only>
+    <NavBar/>
+    <div id="vrMain" class="vr-main"></div>
  <!-- <Cookies /> -->
  <!-- <Copyright /> -->
- </client-only>
+  </client-only>
 </template>
 
 <script setup lang="ts">
