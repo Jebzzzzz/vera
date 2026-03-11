@@ -1,0 +1,45 @@
+Vera Intelligence, Inc. – Terms of Service & Privacy Policy
+Last Updated: March 11, 2026
+
+Welcome to Vera. By accessing or using our fact-checking and information verification platform (the "Service"), you agree to be bound by these Terms. If you do not agree, please do not use the Service.
+
+1. The Service and Acceptable Use
+  Vera provides a definitive verification layer to analyze text snippets, social media posts, and URLs ("User Inputs") to provide a "Fact Score" or safety assessment.
+
+  Nature of the Tool: Vera is an intelligence tool designed to filter digital noise. However, it is not infallible. You agree that Vera’s assessments are for informational purposes only and should not be the sole basis for critical financial, medical, or legal decisions.
+
+  Prohibited Use: You may not use Vera to generate malicious content, harass others, reverse-engineer our verification algorithms, or intentionally overload our infrastructure.
+
+2. Data Privacy & Protection (GDPR & DPA 2012 Compliance)
+  We are committed to the principle of data minimization. We only collect what is strictly necessary to run the Service, in accordance with the EU GDPR and the Philippine Data Privacy Act of 2012 (R.A. 10173).
+
+  A. What We Collect and Why
+
+    User Inputs (Text & URLs): We process the text and links you submit to cross-reference them against verification databases. Crucial Warning: You must not submit sensitive personal information (e.g., bank account numbers, passwords, government IDs) into the Vera search bar. * Technical Data: We collect basic connection data (like IP addresses and device types) strictly for security purposes and to prevent abuse (e.g., DDoS attacks).
+
+  B. Lawful Basis for Processing
+    We process your data based on your Consent (provided when submitting a query) and our Legitimate Interest in providing and securing the Service. We do not sell your data to data brokers or advertisers.
+
+  C. Your Rights as a Data Subject
+    Under the GDPR and the DPA 2012, you possess explicit rights regarding your personal data:
+
+  The Right to be Informed: You have the right to know how your data is used (as outlined here).
+
+  The Right to Access & Portability: You may request a copy of the personal data we hold about you.
+
+  The Right to Rectification & Erasure: You may request corrections to inaccurate data or ask us to delete your personal data ("Right to be Forgotten").
+
+  The Right to Object: You may object to the processing of your data for specific purposes.
+
+  The Right to File a Complaint: You may lodge a complaint with your local data protection authority, such as the National Privacy Commission (NPC) in the Philippines or your respective EU supervisory authority.
+
+  To exercise any of these rights, contact our Data Protection Officer at privacy@veraintelligence.com.
+
+3. Data Retention
+  User Inputs (the texts and URLs you analyze) are processed in real-time. Anonymized metadata from these queries may be retained to improve our verification algorithms, but any personally identifiable data tied to those queries is automatically purged after 30 days unless required by law.
+
+4. Limitation of Liability
+  To the maximum extent permitted by law, Vera Intelligence, Inc. shall not be liable for any direct, indirect, incidental, or consequential damages resulting from your use of, or inability to use, the Service. This includes damages resulting from reliance on our "Fact Score" or link safety verdicts.
+
+5. Governing Law
+  These Terms shall be governed by the laws of the Republic of the Philippines, without regard to its conflict of law provisions, whilst ensuring compliance with extraterritorial regulations such as the GDPR where applicable to our users.
