@@ -4,7 +4,7 @@
       <nav class="vr-nav-left">
         <a href="/" class="vr-nav-home">
           <img src="/logo.png" width=20 height=20 class="vr-nav-logo">
-          <span>Vera</span>
+          <span>VERA</span>
         </a>
       </nav>
       <nav class="vr-nav-right">
