@@ -93,7 +93,7 @@ fullName.value = fullName.value ?? "";
  
 const router = useRouter(); 
 let navAdminMode = userLevel.value >= 2 ? "vr-nav-admin" : ""; 
-const vrServer = "https://vera-api-roan.vercel.app"; 
+const vrServer = "https://vera-api-dev1.vercel.app"; 
  
 type AuthResponse = { 
   accessToken: string; 

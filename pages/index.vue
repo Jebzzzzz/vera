@@ -95,7 +95,7 @@ type ContentResponse = {
 };
 
 const router = useRouter();
-const vrServer = "https://vera-api-roan.vercel.app";
+const vrServer = "https://vera-api-dev1.vercel.app";
 let navAdminMode = userLevel.value >= 2 ? "vr-nav-admin" : "";
 
 function getByID<T extends HTMLElement>(id: string) {
