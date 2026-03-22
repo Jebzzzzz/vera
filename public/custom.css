@@ -1,8 +1,6 @@
-
-
 /* (c) 2025 Vera Intelligence */
 * {
- box-sizing: border-box;
+  box-sizing: border-box;
 }
 body {
   font-family: "Playfair Display", Arial, Helvetica, sans-serif;
@@ -36,7 +34,7 @@ body {
   font-size: 1.2em;
   text-decoration: none;
   border-radius: 8px;
-  color: #0F172A;
+  color: #0f172a;
 }
 .vr-nav-home:hover {
   background-color: rgba(0, 0, 0, 0.05);
@@ -65,7 +63,7 @@ body {
   font-size: 0.9em;
   text-decoration: none;
   border-radius: 8px;
-  color: #0F172A;
+  color: #0f172a;
 }
 .vr-nav-link:hover {
   background-color: rgba(0, 0, 0, 0.1);
@@ -130,7 +128,7 @@ body {
   padding: 10px 15px;
   width: 100px;
   display: inline;
-  font-size: .9em;
+  font-size: 0.9em;
   border-radius: 3px;
   cursor: pointer;
 }
@@ -138,7 +136,7 @@ body {
   text-decoration: none;
 }
 .vr-cookie-more {
-  color: #3F7D58;
+  color: #3f7d58;
 }
 .vr-cookie-more:hover {
   margin: 0 0 0 5px;
@@ -147,12 +145,12 @@ body {
 .vr-cookie-ok {
   margin: 0 0 0 5px;
   color: #fff;
-  background-color: #C59B27;
+  background-color: #c59b27;
 }
 .vr-cookie-ok:hover {
   margin: 0 0 0 5px;
   color: #fff;
-  background-color: #C59B27cc; /* append cc for opacity */
+  background-color: #c59b27cc; /* append cc for opacity */
 }
 
 /* copyright */
